@@ -41,8 +41,7 @@
 </tr> </table>
 
 
-<details>
-<summary>📈 Stats</summary>
+### 📈 Stats
 <br>
 My Github Stats
 
@@ -53,8 +52,7 @@ My Github Stats
 
 
 <br>
-Currently Coding & Listening to:
+<hr />
+Currently Coding & Listening to: <a target="_blank" href="https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6">Spotify</a>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2rtGaCAeYtmcIvuZsvgTf6?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-</details>
+<hr />
